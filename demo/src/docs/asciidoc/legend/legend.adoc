@@ -1,0 +1,5 @@
+== Code Legend
+
+include::{snippets}/legend/os-type/code-description.adoc[]
+
+

@@ -1,0 +1,12 @@
+version '1.0.0'
+
+dependencies {
+    compileOnly(
+            'org.springframework.restdocs:spring-restdocs-mockmvc',
+            'org.springframework.boot:spring-boot-starter-test',
+            'org.springframework.security:spring-security-test'
+    )
+}
+
+bootJar { enabled = false }
+jar { enabled = true }

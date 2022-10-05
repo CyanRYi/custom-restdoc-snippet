@@ -1,0 +1,5 @@
+:api-name: Demo
+
+==== {api-name}
+
+operation::demo[snippets='http-request,http-response,response-fields']

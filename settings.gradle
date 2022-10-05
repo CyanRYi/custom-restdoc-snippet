@@ -1,0 +1,4 @@
+rootProject.name = 'spring-restdocs-demo'
+
+include 'demo'
+include 'test-support'
