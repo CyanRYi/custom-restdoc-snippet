@@ -5,10 +5,6 @@ import org.springframework.core.io.Resource;
 import org.springframework.restdocs.templates.StandardTemplateResourceResolver;
 import org.springframework.restdocs.templates.TemplateFormat;
 
-/**
- * @author Cyan
- * @since 3.3
- */
 public class CustomTemplateResourceResolver extends StandardTemplateResourceResolver {
 
   private TemplateFormat templateFormat;
